@@ -7,7 +7,6 @@
 </h1>
 
 <h4 align="center">A Deep Learning Intent based chatbot for Thapar Institute of Engineering & Technology, Patiala.</h4>
-<h4 align="center">Deployed on <a href="http://thapar.edu">thapar.edu</a></h4>
 <br />
 
 ![screens](./static-img/screen.png)
